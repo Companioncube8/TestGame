@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="N:\Source\Test\TestGame\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="N:\Source\Test\TestGame\Classes\GameScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="N:\Source\Test\TestGame\Classes\SpriteShape.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="N:\Source\Test\TestGame\proj.win32\main.cpp">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClCompile>
+    <ClCompile Include="N:\Source\Test\TestGame\cocos2d\cocos\precheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="N:\Source\Test\TestGame\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="N:\Source\Test\TestGame\Classes\GameScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="N:\Source\Test\TestGame\Classes\SpriteShape.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="N:\Source\Test\TestGame\Classes\GameDefine.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="N:\Source\Test\TestGame\proj.win32\main.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="N:\Source\Test\TestGame\proj.win32\resource.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="N:\Source\Test\TestGame\Resources\CloseNormal.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="N:\Source\Test\TestGame\Resources\CloseSelected.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="N:\Source\Test\TestGame\Resources\HelloWorld.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="N:\Source\Test\TestGame\Resources\button\BlankNormal.png">
+      <Filter>Resources\button</Filter>
+    </ClInclude>
+    <ClInclude Include="N:\Source\Test\TestGame\Resources\fonts\Marker Felt.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="N:\Source\Test\TestGame\Resources\fonts\arial.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="N:\Source\Test\TestGame\Resources\plist\Tiles.plist">
+      <Filter>Resources\plist</Filter>
+    </ClInclude>
+    <ClInclude Include="N:\Source\Test\TestGame\Resources\plist\Tiles.png">
+      <Filter>Resources\plist</Filter>
+    </ClInclude>
+    <ClInclude Include="N:\Source\Test\TestGame\Resources\res\.gitkeep">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="N:\Source\Test\TestGame\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="N:\Source\Test\TestGame\proj.win32\game.rc">
+      <Filter>Source Files\proj.win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{43F7D41C-BECB-36A8-B31D-55CC0BED4EF2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\button">
+      <UniqueIdentifier>{D8AA5A4C-E6E2-3D20-87EF-A3953B4E4FC5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\fonts">
+      <UniqueIdentifier>{67B5F9D6-5197-379A-95FB-B46B4C3B969E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\plist">
+      <UniqueIdentifier>{DA3E06AA-12B9-35AC-86D2-17C2BF80591E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res">
+      <UniqueIdentifier>{1F163968-5DA9-34DB-85D1-FC8593921CA8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AF0B8A79-79D3-394F-A7A4-588497421FB6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes">
+      <UniqueIdentifier>{79F8A003-6FCE-382E-BAF1-31A8EEB4F7B0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\proj.win32">
+      <UniqueIdentifier>{D2D7B7CC-6D04-3A22-91A7-90006B948A41}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>N:\Source\Test\TestGame\proj.win32\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>N:\Source\Test\TestGame\proj.win32\Debug\SYNC_RESOURCE-TestGame</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>N:\Source\Test\TestGame\proj.win32\bin\TestGame\Debug\TestGame.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
